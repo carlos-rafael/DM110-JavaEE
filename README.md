@@ -2,6 +2,7 @@
 
 Exercício de fixação da primeira aula da disciplina Java EE da pós graduação do INATEL.
 
+Descrição do escopo do projeto:
 Defina a interface de serviço REST para uma calculadora de duas operações no projeto API (calculadora-api-0.1-SNAPSHOT.jar).
 
 Faça a implementação serviço REST de calculadora projeto core (calculadora-core-0.1-SNAPSHOT.jar).
